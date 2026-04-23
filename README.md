@@ -17,10 +17,18 @@ Học viên cần thực hiện các bước sau để hoàn thành bài lab:
 ```bash
 # Cài đặt môi trường
 python -m venv .venv
+# macOS/Linux
 source .venv/bin/activate
+# PowerShell
+.\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 
-# Chạy benchmark (với mock data)
+# Cấu hình OpenAI (model mặc định: gpt-4o-mini)
+set OPENAI_API_KEY=your_api_key_here
+# Tùy chọn chuyển về mock runtime:
+# set REFLEXION_RUNTIME=mock
+
+# Chạy benchmark
 python run_benchmark.py --dataset data/hotpot_mini.json --out-dir outputs/sample_run
 
 # Chạy chấm điểm tự động

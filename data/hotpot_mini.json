@@ -2,55 +2,327 @@
   {
     "qid": "hp1",
     "difficulty": "easy",
-    "question": "Which university did the author of The Hobbit teach at?",
-    "gold_answer": "Oxford University",
+    "question": "What river flows through the city where Ada Lovelace was born?",
+    "gold_answer": "River Thames",
     "context": [
       {
-        "title": "J. R. R. Tolkien",
-        "text": "J. R. R. Tolkien wrote The Hobbit and was a professor at Oxford University."
+        "title": "Ada Lovelace",
+        "text": "Ada Lovelace was born in London."
       },
       {
-        "title": "Oxford University",
-        "text": "Oxford University is a collegiate research university in Oxford, England."
+        "title": "London",
+        "text": "London is traversed by the River Thames."
       }
     ]
   },
   {
     "qid": "hp2",
     "difficulty": "medium",
-    "question": "What river flows through the city where Ada Lovelace was born?",
-    "gold_answer": "River Thames",
+    "question": "What river flows through the city where Napoleon Bonaparte was born?",
+    "gold_answer": "Gravona River",
     "context": [
       {
-        "title": "Ada Lovelace",
-        "text": "Ada Lovelace was born in London, England."
+        "title": "Napoleon Bonaparte",
+        "text": "Napoleon Bonaparte was born in Ajaccio."
       },
       {
-        "title": "London",
-        "text": "London is crossed by the River Thames."
+        "title": "Ajaccio",
+        "text": "Ajaccio is traversed by the Gravona River."
       }
     ]
   },
   {
     "qid": "hp3",
     "difficulty": "easy",
-    "question": "What instrument did the composer of The Four Seasons mainly play?",
-    "gold_answer": "violin",
+    "question": "What river flows through the city where Pablo Picasso was born?",
+    "gold_answer": "Guadalmedina River",
     "context": [
       {
-        "title": "The Four Seasons",
-        "text": "The Four Seasons is a group of violin concertos by Antonio Vivaldi."
+        "title": "Pablo Picasso",
+        "text": "Pablo Picasso was born in Malaga."
       },
       {
-        "title": "Antonio Vivaldi",
-        "text": "Antonio Vivaldi was an Italian Baroque composer and virtuoso violinist."
+        "title": "Malaga",
+        "text": "Malaga is traversed by the Guadalmedina River."
       }
     ]
   },
   {
     "qid": "hp4",
     "difficulty": "medium",
-    "question": "Which ocean borders the country whose capital is Lima?",
+    "question": "What river flows through the city where Hans Christian Andersen was born?",
+    "gold_answer": "Odense River",
+    "context": [
+      {
+        "title": "Hans Christian Andersen",
+        "text": "Hans Christian Andersen was born in Odense."
+      },
+      {
+        "title": "Odense",
+        "text": "Odense is traversed by the Odense River."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Frederic Chopin was born?",
+    "gold_answer": "Vistula River",
+    "context": [
+      {
+        "title": "Frederic Chopin",
+        "text": "Frederic Chopin was born in Warsaw."
+      },
+      {
+        "title": "Warsaw",
+        "text": "Warsaw is traversed by the Vistula River."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Fyodor Dostoevsky was born?",
+    "gold_answer": "Moskva River",
+    "context": [
+      {
+        "title": "Fyodor Dostoevsky",
+        "text": "Fyodor Dostoevsky was born in Moscow."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is traversed by the Moskva River."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Victor Hugo was born?",
+    "gold_answer": "Doubs River",
+    "context": [
+      {
+        "title": "Victor Hugo",
+        "text": "Victor Hugo was born in Besancon."
+      },
+      {
+        "title": "Besancon",
+        "text": "Besancon is traversed by the Doubs River."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Jane Austen was born?",
+    "gold_answer": "River Test",
+    "context": [
+      {
+        "title": "Jane Austen",
+        "text": "Jane Austen was born in Steventon."
+      },
+      {
+        "title": "Steventon",
+        "text": "Steventon is traversed by the River Test."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Mahatma Gandhi was born?",
+    "gold_answer": "Bhadar River",
+    "context": [
+      {
+        "title": "Mahatma Gandhi",
+        "text": "Mahatma Gandhi was born in Porbandar."
+      },
+      {
+        "title": "Porbandar",
+        "text": "Porbandar is traversed by the Bhadar River."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Rabindranath Tagore was born?",
+    "gold_answer": "Hooghly River",
+    "context": [
+      {
+        "title": "Rabindranath Tagore",
+        "text": "Rabindranath Tagore was born in Kolkata."
+      },
+      {
+        "title": "Kolkata",
+        "text": "Kolkata is traversed by the Hooghly River."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Charles Dickens was born?",
+    "gold_answer": "Portsea Creek",
+    "context": [
+      {
+        "title": "Charles Dickens",
+        "text": "Charles Dickens was born in Portsmouth."
+      },
+      {
+        "title": "Portsmouth",
+        "text": "Portsmouth is traversed by the Portsea Creek."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Alexander Pushkin was born?",
+    "gold_answer": "Moskva River",
+    "context": [
+      {
+        "title": "Alexander Pushkin",
+        "text": "Alexander Pushkin was born in Moscow."
+      },
+      {
+        "title": "Moscow",
+        "text": "Moscow is traversed by the Moskva River."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Joan Miro was born?",
+    "gold_answer": "Llobregat River",
+    "context": [
+      {
+        "title": "Joan Miro",
+        "text": "Joan Miro was born in Barcelona."
+      },
+      {
+        "title": "Barcelona",
+        "text": "Barcelona is traversed by the Llobregat River."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Niels Bohr was born?",
+    "gold_answer": "River Molleaen",
+    "context": [
+      {
+        "title": "Niels Bohr",
+        "text": "Niels Bohr was born in Copenhagen."
+      },
+      {
+        "title": "Copenhagen",
+        "text": "Copenhagen is traversed by the River Molleaen."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Soren Kierkegaard was born?",
+    "gold_answer": "River Molleaen",
+    "context": [
+      {
+        "title": "Soren Kierkegaard",
+        "text": "Soren Kierkegaard was born in Copenhagen."
+      },
+      {
+        "title": "Copenhagen",
+        "text": "Copenhagen is traversed by the River Molleaen."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Franz Kafka was born?",
+    "gold_answer": "Vltava River",
+    "context": [
+      {
+        "title": "Franz Kafka",
+        "text": "Franz Kafka was born in Prague."
+      },
+      {
+        "title": "Prague",
+        "text": "Prague is traversed by the Vltava River."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Johannes Kepler was born?",
+    "gold_answer": "Wurm River",
+    "context": [
+      {
+        "title": "Johannes Kepler",
+        "text": "Johannes Kepler was born in Weil der Stadt."
+      },
+      {
+        "title": "Weil der Stadt",
+        "text": "Weil der Stadt is traversed by the Wurm River."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Ludwig van Beethoven was born?",
+    "gold_answer": "Rhine River",
+    "context": [
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven was born in Bonn."
+      },
+      {
+        "title": "Bonn",
+        "text": "Bonn is traversed by the Rhine River."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "easy",
+    "question": "What river flows through the city where Rembrandt was born?",
+    "gold_answer": "Old Rhine",
+    "context": [
+      {
+        "title": "Rembrandt",
+        "text": "Rembrandt was born in Leiden."
+      },
+      {
+        "title": "Leiden",
+        "text": "Leiden is traversed by the Old Rhine."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Galileo Galilei was born?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Galileo Galilei",
+        "text": "Galileo Galilei was born in Pisa."
+      },
+      {
+        "title": "Pisa",
+        "text": "Pisa is traversed by the Arno River."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Lima?",
     "gold_answer": "Pacific Ocean",
     "context": [
       {
@@ -59,46 +331,318 @@
       },
       {
         "title": "Peru",
-        "text": "Peru borders the Pacific Ocean."
+        "text": "Peru has a coastline on the Pacific Ocean."
       }
     ]
   },
   {
-    "qid": "hp5",
-    "difficulty": "easy",
-    "question": "What field did the scientist who proposed the three laws of motion study in addition to physics?",
-    "gold_answer": "mathematics",
-    "context": [
-      {
-        "title": "Isaac Newton",
-        "text": "Isaac Newton formulated the laws of motion and was a physicist and mathematician."
-      },
-      {
-        "title": "Laws of motion",
-        "text": "The three laws of motion are attributed to Isaac Newton."
-      }
-    ]
-  },
-  {
-    "qid": "hp6",
-    "difficulty": "hard",
-    "question": "What sea borders the country where Petra is located?",
-    "gold_answer": "Dead Sea",
-    "context": [
-      {
-        "title": "Petra",
-        "text": "Petra is a historical city in Jordan."
-      },
-      {
-        "title": "Jordan",
-        "text": "Jordan borders the Dead Sea to the west."
-      }
-    ]
-  },
-  {
-    "qid": "hp7",
+    "qid": "hp22",
     "difficulty": "medium",
-    "question": "Which language family does the primary language of Brazil belong to?",
+    "question": "Which body of water borders the country whose capital is Lisbon?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Lisbon",
+        "text": "Lisbon is the capital city of Portugal."
+      },
+      {
+        "title": "Portugal",
+        "text": "Portugal has a coastline on the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Rabat?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Rabat",
+        "text": "Rabat is the capital city of Morocco."
+      },
+      {
+        "title": "Morocco",
+        "text": "Morocco has a coastline on the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Cairo?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital city of Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt has a coastline on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Nairobi?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Nairobi",
+        "text": "Nairobi is the capital city of Kenya."
+      },
+      {
+        "title": "Kenya",
+        "text": "Kenya has a coastline on the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Buenos Aires?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Buenos Aires",
+        "text": "Buenos Aires is the capital city of Argentina."
+      },
+      {
+        "title": "Argentina",
+        "text": "Argentina has a coastline on the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Santiago?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Santiago",
+        "text": "Santiago is the capital city of Chile."
+      },
+      {
+        "title": "Chile",
+        "text": "Chile has a coastline on the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Tokyo?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital city of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan has a coastline on the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Ottawa?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Ottawa",
+        "text": "Ottawa is the capital city of Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada has a coastline on the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Oslo?",
+    "gold_answer": "North Sea",
+    "context": [
+      {
+        "title": "Oslo",
+        "text": "Oslo is the capital city of Norway."
+      },
+      {
+        "title": "Norway",
+        "text": "Norway has a coastline on the North Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Athens?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Athens",
+        "text": "Athens is the capital city of Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece has a coastline on the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Rome?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Rome",
+        "text": "Rome is the capital city of Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy has a coastline on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Dublin?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Dublin",
+        "text": "Dublin is the capital city of Ireland."
+      },
+      {
+        "title": "Ireland",
+        "text": "Ireland has a coastline on the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Stockholm?",
+    "gold_answer": "Baltic Sea",
+    "context": [
+      {
+        "title": "Stockholm",
+        "text": "Stockholm is the capital city of Sweden."
+      },
+      {
+        "title": "Sweden",
+        "text": "Sweden has a coastline on the Baltic Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Helsinki?",
+    "gold_answer": "Baltic Sea",
+    "context": [
+      {
+        "title": "Helsinki",
+        "text": "Helsinki is the capital city of Finland."
+      },
+      {
+        "title": "Finland",
+        "text": "Finland has a coastline on the Baltic Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Reykjavik?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Reykjavik",
+        "text": "Reykjavik is the capital city of Iceland."
+      },
+      {
+        "title": "Iceland",
+        "text": "Iceland has a coastline on the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Algiers?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Algiers",
+        "text": "Algiers is the capital city of Algeria."
+      },
+      {
+        "title": "Algeria",
+        "text": "Algeria has a coastline on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Tripoli?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Tripoli",
+        "text": "Tripoli is the capital city of Libya."
+      },
+      {
+        "title": "Libya",
+        "text": "Libya has a coastline on the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Mogadishu?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Mogadishu",
+        "text": "Mogadishu is the capital city of Somalia."
+      },
+      {
+        "title": "Somalia",
+        "text": "Somalia has a coastline on the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "medium",
+    "question": "Which body of water borders the country whose capital is Muscat?",
+    "gold_answer": "Arabian Sea",
+    "context": [
+      {
+        "title": "Muscat",
+        "text": "Muscat is the capital city of Oman."
+      },
+      {
+        "title": "Oman",
+        "text": "Oman has a coastline on the Arabian Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Brazil belong to?",
     "gold_answer": "Romance",
     "context": [
       {
@@ -107,23 +651,951 @@
       },
       {
         "title": "Portuguese language",
-        "text": "Portuguese is a Romance language."
+        "text": "Portuguese is classified in the Romance language family."
       }
     ]
   },
   {
-    "qid": "hp8",
-    "difficulty": "hard",
-    "question": "Which mountain range contains the highest mountain in the country whose capital is Kathmandu?",
-    "gold_answer": "Himalayas",
+    "qid": "hp42",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Spain belong to?",
+    "gold_answer": "Romance",
     "context": [
       {
-        "title": "Kathmandu",
-        "text": "Kathmandu is the capital city of Nepal."
+        "title": "Spain",
+        "text": "The official language of Spain is Spanish."
       },
       {
-        "title": "Nepal",
-        "text": "Mount Everest, the highest mountain in Nepal, is part of the Himalayas."
+        "title": "Spanish language",
+        "text": "Spanish is classified in the Romance language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of France belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "France",
+        "text": "The official language of France is French."
+      },
+      {
+        "title": "French language",
+        "text": "French is classified in the Romance language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Italy belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Italy",
+        "text": "The official language of Italy is Italian."
+      },
+      {
+        "title": "Italian language",
+        "text": "Italian is classified in the Romance language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Romania belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "Romania",
+        "text": "The official language of Romania is Romanian."
+      },
+      {
+        "title": "Romanian language",
+        "text": "Romanian is classified in the Romance language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Russia belong to?",
+    "gold_answer": "Slavic",
+    "context": [
+      {
+        "title": "Russia",
+        "text": "The official language of Russia is Russian."
+      },
+      {
+        "title": "Russian language",
+        "text": "Russian is classified in the Slavic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Poland belong to?",
+    "gold_answer": "Slavic",
+    "context": [
+      {
+        "title": "Poland",
+        "text": "The official language of Poland is Polish."
+      },
+      {
+        "title": "Polish language",
+        "text": "Polish is classified in the Slavic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Czech Republic belong to?",
+    "gold_answer": "Slavic",
+    "context": [
+      {
+        "title": "Czech Republic",
+        "text": "The official language of Czech Republic is Czech."
+      },
+      {
+        "title": "Czech language",
+        "text": "Czech is classified in the Slavic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Bulgaria belong to?",
+    "gold_answer": "Slavic",
+    "context": [
+      {
+        "title": "Bulgaria",
+        "text": "The official language of Bulgaria is Bulgarian."
+      },
+      {
+        "title": "Bulgarian language",
+        "text": "Bulgarian is classified in the Slavic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Ukraine belong to?",
+    "gold_answer": "Slavic",
+    "context": [
+      {
+        "title": "Ukraine",
+        "text": "The official language of Ukraine is Ukrainian."
+      },
+      {
+        "title": "Ukrainian language",
+        "text": "Ukrainian is classified in the Slavic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Saudi Arabia belong to?",
+    "gold_answer": "Semitic",
+    "context": [
+      {
+        "title": "Saudi Arabia",
+        "text": "The official language of Saudi Arabia is Arabic."
+      },
+      {
+        "title": "Arabic language",
+        "text": "Arabic is classified in the Semitic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Israel belong to?",
+    "gold_answer": "Semitic",
+    "context": [
+      {
+        "title": "Israel",
+        "text": "The official language of Israel is Hebrew."
+      },
+      {
+        "title": "Hebrew language",
+        "text": "Hebrew is classified in the Semitic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Turkey belong to?",
+    "gold_answer": "Turkic",
+    "context": [
+      {
+        "title": "Turkey",
+        "text": "The official language of Turkey is Turkish."
+      },
+      {
+        "title": "Turkish language",
+        "text": "Turkish is classified in the Turkic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Kazakhstan belong to?",
+    "gold_answer": "Turkic",
+    "context": [
+      {
+        "title": "Kazakhstan",
+        "text": "The official language of Kazakhstan is Kazakh."
+      },
+      {
+        "title": "Kazakh language",
+        "text": "Kazakh is classified in the Turkic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Japan belong to?",
+    "gold_answer": "Japonic",
+    "context": [
+      {
+        "title": "Japan",
+        "text": "The official language of Japan is Japanese."
+      },
+      {
+        "title": "Japanese language",
+        "text": "Japanese is classified in the Japonic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of South Korea belong to?",
+    "gold_answer": "Koreanic",
+    "context": [
+      {
+        "title": "South Korea",
+        "text": "The official language of South Korea is Korean."
+      },
+      {
+        "title": "Korean language",
+        "text": "Korean is classified in the Koreanic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Vietnam belong to?",
+    "gold_answer": "Austroasiatic",
+    "context": [
+      {
+        "title": "Vietnam",
+        "text": "The official language of Vietnam is Vietnamese."
+      },
+      {
+        "title": "Vietnamese language",
+        "text": "Vietnamese is classified in the Austroasiatic language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Thailand belong to?",
+    "gold_answer": "Kra-Dai",
+    "context": [
+      {
+        "title": "Thailand",
+        "text": "The official language of Thailand is Thai."
+      },
+      {
+        "title": "Thai language",
+        "text": "Thai is classified in the Kra-Dai language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "easy",
+    "question": "Which language family does the official language of Indonesia belong to?",
+    "gold_answer": "Austronesian",
+    "context": [
+      {
+        "title": "Indonesia",
+        "text": "The official language of Indonesia is Indonesian."
+      },
+      {
+        "title": "Indonesian language",
+        "text": "Indonesian is classified in the Austronesian language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "medium",
+    "question": "Which language family does the official language of Madagascar belong to?",
+    "gold_answer": "Austronesian",
+    "context": [
+      {
+        "title": "Madagascar",
+        "text": "The official language of Madagascar is Malagasy."
+      },
+      {
+        "title": "Malagasy language",
+        "text": "Malagasy is classified in the Austronesian language family."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Petra is located?",
+    "gold_answer": "Dead Sea",
+    "context": [
+      {
+        "title": "Petra",
+        "text": "Petra is located in Jordan."
+      },
+      {
+        "title": "Jordan",
+        "text": "Jordan borders the Dead Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Machu Picchu is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "Peru borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Colosseum is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "Colosseum is located in Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Acropolis of Athens is located?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Acropolis of Athens",
+        "text": "Acropolis of Athens is located in Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece borders the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Burj Khalifa is located?",
+    "gold_answer": "Persian Gulf",
+    "context": [
+      {
+        "title": "Burj Khalifa",
+        "text": "Burj Khalifa is located in United Arab Emirates."
+      },
+      {
+        "title": "United Arab Emirates",
+        "text": "United Arab Emirates borders the Persian Gulf."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Christ the Redeemer is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Christ the Redeemer",
+        "text": "Christ the Redeemer is located in Brazil."
+      },
+      {
+        "title": "Brazil",
+        "text": "Brazil borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where CN Tower is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "CN Tower",
+        "text": "CN Tower is located in Canada."
+      },
+      {
+        "title": "Canada",
+        "text": "Canada borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Eiffel Tower is located?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "Eiffel Tower is located in France."
+      },
+      {
+        "title": "France",
+        "text": "France borders the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Brandenburg Gate is located?",
+    "gold_answer": "North Sea",
+    "context": [
+      {
+        "title": "Brandenburg Gate",
+        "text": "Brandenburg Gate is located in Germany."
+      },
+      {
+        "title": "Germany",
+        "text": "Germany borders the North Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Sagrada Familia is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Sagrada Familia",
+        "text": "Sagrada Familia is located in Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spain borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Tower of London is located?",
+    "gold_answer": "North Sea",
+    "context": [
+      {
+        "title": "Tower of London",
+        "text": "Tower of London is located in United Kingdom."
+      },
+      {
+        "title": "United Kingdom",
+        "text": "United Kingdom borders the North Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Pyramids of Giza is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Pyramids of Giza",
+        "text": "Pyramids of Giza is located in Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Angkor Wat is located?",
+    "gold_answer": "Gulf of Thailand",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "Angkor Wat is located in Cambodia."
+      },
+      {
+        "title": "Cambodia",
+        "text": "Cambodia borders the Gulf of Thailand."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Mount Fuji is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Mount Fuji",
+        "text": "Mount Fuji is located in Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Uluru is located?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Uluru",
+        "text": "Uluru is located in Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia borders the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Moai of Easter Island is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Moai of Easter Island",
+        "text": "Moai of Easter Island is located in Chile."
+      },
+      {
+        "title": "Chile",
+        "text": "Chile borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Chichen Itza is located?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Chichen Itza",
+        "text": "Chichen Itza is located in Mexico."
+      },
+      {
+        "title": "Mexico",
+        "text": "Mexico borders the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Taj Mahal is located?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "Taj Mahal is located in India."
+      },
+      {
+        "title": "India",
+        "text": "India borders the Indian Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "hard",
+    "question": "What body of water borders the country where Blue Mosque is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Blue Mosque",
+        "text": "Blue Mosque is located in Turkey."
+      },
+      {
+        "title": "Turkey",
+        "text": "Turkey borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "medium",
+    "question": "What body of water borders the country where Alhambra is located?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Alhambra",
+        "text": "Alhambra is located in Spain."
+      },
+      {
+        "title": "Spain",
+        "text": "Spain borders the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "medium",
+    "question": "Which university did the author of The Hobbit teach at?",
+    "gold_answer": "Oxford University",
+    "context": [
+      {
+        "title": "The Hobbit",
+        "text": "The Hobbit is linked to J. R. R. Tolkien."
+      },
+      {
+        "title": "J. R. R. Tolkien",
+        "text": "J. R. R. Tolkien wrote The Hobbit and taught at Oxford University."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "hard",
+    "question": "In which city was the person associated with The Divine Comedy born?",
+    "gold_answer": "Florence",
+    "context": [
+      {
+        "title": "The Divine Comedy",
+        "text": "The Divine Comedy is linked to Dante Alighieri."
+      },
+      {
+        "title": "Dante Alighieri",
+        "text": "Dante Alighieri is associated with The Divine Comedy and was born in Florence."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "medium",
+    "question": "In which city was the person associated with Hamlet born?",
+    "gold_answer": "Stratford-upon-Avon",
+    "context": [
+      {
+        "title": "Hamlet",
+        "text": "Hamlet is linked to William Shakespeare."
+      },
+      {
+        "title": "William Shakespeare",
+        "text": "William Shakespeare is associated with Hamlet and was born in Stratford-upon-Avon."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "hard",
+    "question": "What language did the author of The Odyssey write in?",
+    "gold_answer": "ancient Greek",
+    "context": [
+      {
+        "title": "The Odyssey",
+        "text": "The Odyssey is linked to Homer."
+      },
+      {
+        "title": "Homer",
+        "text": "Homer, traditionally linked to The Odyssey, composed in ancient Greek."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "medium",
+    "question": "What field did the person linked to Principia Mathematica study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Principia Mathematica",
+        "text": "Principia Mathematica is linked to Isaac Newton."
+      },
+      {
+        "title": "Isaac Newton",
+        "text": "Isaac Newton, linked to Principia Mathematica, studied physics and mathematics."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "hard",
+    "question": "What instrument did the composer linked to The Four Seasons mainly play?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "The Four Seasons",
+        "text": "The Four Seasons is linked to Antonio Vivaldi."
+      },
+      {
+        "title": "Antonio Vivaldi",
+        "text": "Antonio Vivaldi, composer of The Four Seasons, mainly played the violin."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "medium",
+    "question": "What instrument did the composer linked to Moonlight Sonata mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Moonlight Sonata",
+        "text": "Moonlight Sonata is linked to Ludwig van Beethoven."
+      },
+      {
+        "title": "Ludwig van Beethoven",
+        "text": "Ludwig van Beethoven, composer of Moonlight Sonata, mainly played the piano."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "hard",
+    "question": "What instrument did the composer linked to Nocturnes mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Nocturnes",
+        "text": "Nocturnes is linked to Frederic Chopin."
+      },
+      {
+        "title": "Frederic Chopin",
+        "text": "Frederic Chopin, composer of Nocturnes, mainly played the piano."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "medium",
+    "question": "What instrument did the composer linked to The Rite of Spring mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "The Rite of Spring",
+        "text": "The Rite of Spring is linked to Igor Stravinsky."
+      },
+      {
+        "title": "Igor Stravinsky",
+        "text": "Igor Stravinsky, composer of The Rite of Spring, mainly played the piano."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "hard",
+    "question": "What instrument did the composer linked to Rhapsody in Blue mainly play?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Rhapsody in Blue",
+        "text": "Rhapsody in Blue is linked to George Gershwin."
+      },
+      {
+        "title": "George Gershwin",
+        "text": "George Gershwin, composer of Rhapsody in Blue, mainly played the piano."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "medium",
+    "question": "What field is the person connected to Theory of Relativity best known for?",
+    "gold_answer": "physics",
+    "context": [
+      {
+        "title": "Theory of Relativity",
+        "text": "Theory of Relativity is linked to Albert Einstein."
+      },
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein, linked to Theory of Relativity, is best known for physics."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "hard",
+    "question": "What field did the person linked to Radioactivity research study in addition to physics?",
+    "gold_answer": "chemistry",
+    "context": [
+      {
+        "title": "Radioactivity research",
+        "text": "Radioactivity research is linked to Marie Curie."
+      },
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie, linked to Radioactivity research, studied physics and chemistry."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "medium",
+    "question": "What field did the person linked to Laws of planetary motion study in addition to physics?",
+    "gold_answer": "mathematics",
+    "context": [
+      {
+        "title": "Laws of planetary motion",
+        "text": "Laws of planetary motion is linked to Johannes Kepler."
+      },
+      {
+        "title": "Johannes Kepler",
+        "text": "Johannes Kepler, linked to Laws of planetary motion, studied physics and mathematics."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "hard",
+    "question": "What field did the person linked to Electromagnetic induction study in addition to physics?",
+    "gold_answer": "chemistry",
+    "context": [
+      {
+        "title": "Electromagnetic induction",
+        "text": "Electromagnetic induction is linked to Michael Faraday."
+      },
+      {
+        "title": "Michael Faraday",
+        "text": "Michael Faraday, linked to Electromagnetic induction, studied physics and chemistry."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "medium",
+    "question": "In which city was the person associated with Telephone patent born?",
+    "gold_answer": "Edinburgh",
+    "context": [
+      {
+        "title": "Telephone patent",
+        "text": "Telephone patent is linked to Alexander Graham Bell."
+      },
+      {
+        "title": "Alexander Graham Bell",
+        "text": "Alexander Graham Bell is associated with Telephone patent and was born in Edinburgh."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "hard",
+    "question": "In which city was the person associated with Microsoft born?",
+    "gold_answer": "Seattle",
+    "context": [
+      {
+        "title": "Microsoft",
+        "text": "Microsoft is linked to Bill Gates."
+      },
+      {
+        "title": "Bill Gates",
+        "text": "Bill Gates is associated with Microsoft and was born in Seattle."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "medium",
+    "question": "In which city was the person associated with Apple born?",
+    "gold_answer": "San Francisco",
+    "context": [
+      {
+        "title": "Apple",
+        "text": "Apple is linked to Steve Jobs."
+      },
+      {
+        "title": "Steve Jobs",
+        "text": "Steve Jobs is associated with Apple and was born in San Francisco."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "hard",
+    "question": "In which city was the person associated with Facebook born?",
+    "gold_answer": "White Plains",
+    "context": [
+      {
+        "title": "Facebook",
+        "text": "Facebook is linked to Mark Zuckerberg."
+      },
+      {
+        "title": "Mark Zuckerberg",
+        "text": "Mark Zuckerberg is associated with Facebook and was born in White Plains."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "medium",
+    "question": "In which city was the person associated with Tesla born?",
+    "gold_answer": "Pretoria",
+    "context": [
+      {
+        "title": "Tesla",
+        "text": "Tesla is linked to Elon Musk."
+      },
+      {
+        "title": "Elon Musk",
+        "text": "Elon Musk is associated with Tesla and was born in Pretoria."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "hard",
+    "question": "In which city was the person associated with Alibaba born?",
+    "gold_answer": "Hangzhou",
+    "context": [
+      {
+        "title": "Alibaba",
+        "text": "Alibaba is linked to Jack Ma."
+      },
+      {
+        "title": "Jack Ma",
+        "text": "Jack Ma is associated with Alibaba and was born in Hangzhou."
       }
     ]
   }
